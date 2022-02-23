@@ -6,8 +6,8 @@ package com.javarush.task.task01.task0103;
 
 public class Solution {
     public static void main(String[] args) {
-     int a = 3126;
-     int b = a - 8;
-     System.out.println(b);//напишите тут ваш код
+        int a = 3126;
+        int b = a - 8;
+        System.out.println(b);//напишите тут ваш код
     }
 }
